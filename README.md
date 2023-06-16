@@ -13,4 +13,6 @@ The code is adapted to a particular experimental case, in which 18 groups of 3-6
 
 - Mobility_characterisation.ipynb: A more advanced study is carried out in order to characterize the pedestrian mobility. We obtain the mean squared displacement, the auto-correlation of the velocities, etc.
 
+- Stops.ipynb: The stops made during the experiment are also studied. We detect the stops and their duration and project them on maps.
+
 
